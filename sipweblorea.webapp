@@ -1,0 +1,13 @@
+{
+  "name": "sipweblorea",
+  "description": "Esto es un Hola Mundo",
+  "launch_path": "/sipfirefox/.",
+   "icons": {
+    "128": "https://github.com/c4p0/sipfirefox/sipfirefox.png"
+  },
+  "developer": {
+    "name": "c4p0",
+    "url": "https://lorea.org"
+  },
+  "default_locale": "es"
+}
