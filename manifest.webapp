@@ -1,0 +1,28 @@
+{
+    "version": "1",
+    "name": "sipfirefox",
+    "launch_path": "/sipfirefox/index.html",
+    "description": "sip client for firefox OS",
+    "icons": {
+        "16": "/sipfirefox/images/logo16.png",
+        "32": "/sipfirefox/images/logo32.png",
+        "48": "/sipfirefox/images/logo48.png",
+        "64": "/sipfirefox/images/logo64.png",
+        "128": "/sipfirefox/images/logo128.png"
+    },
+    "developer": {
+        "name": "c4p0",
+        "url": "https://lorea.org"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+    "permissions": {
+        "desktop-notification": {
+            "description" : "To show notifications"
+        },
+        "geolocation": {
+            "description" : "Marking out user location"
+        }
+    }
+}
+
